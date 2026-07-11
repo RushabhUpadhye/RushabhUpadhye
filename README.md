@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rushabh Upadhye</h1>
 Thanks for stopping by! This repository showcases my journey in Data Analytics and Data Science through hands-on projects, practical learning, and real-world problem solving.
 
-- 🔭 I’m currently working on **A/B Test Analysis**
+- 🔭 I’m currently working on **A/B Test Analysis Project**
 
 - 🌱 I’m currently doing course on **Data Science by Adda 247** 
 
