@@ -5,7 +5,7 @@ Thanks for stopping by! This repository showcases my journey in Data Analytics a
 
 - 🌱 I’m currently doing course on **Data Science by Adda 247** 
 
-- 📫 How to reach me ***upadhyerushabh28@gmail.com***
+- 📫 How to reach me **upadhyerushabh28@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
